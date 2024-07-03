@@ -1,0 +1,12 @@
+spring:
+application:
+  name: afisha-monitoring
+
+rambler:
+  url: {rambler.url}
+  widgetKey: {rambler.widgetKey}
+  apikey: {rambler.apikey}
+time:
+  url: {time.url}
+  token: {time.token}
+  channelId: {time.channelId}
